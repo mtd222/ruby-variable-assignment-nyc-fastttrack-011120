@@ -3,6 +3,7 @@
 ## Objectives
 
 1. Assign a local variable.
+greeting = "hello world"
 
 ## Instructions
 
